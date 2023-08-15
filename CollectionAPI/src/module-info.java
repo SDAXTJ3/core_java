@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author khodk
+ *
+ */
+module CollectionAPI {
+}
